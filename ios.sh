@@ -1,0 +1,1 @@
+robot -d ./logs/ios -v PLATFORM:ios tests/

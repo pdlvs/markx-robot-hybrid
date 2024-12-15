@@ -1,0 +1,1 @@
+robot -d ./logs/android -v PLATFORM:android tests/
